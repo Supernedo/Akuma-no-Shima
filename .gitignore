@@ -1,0 +1,5 @@
+.gitignore
+.vscode/java-formatter.xml
+user-config/user-settings.config
+target/classes/
+*.class
